@@ -38,7 +38,7 @@
 ### Step 8: 
   Check if average is greater than or equal to 90.0f
 
-  If yes, print Grade A.
+  If yes, print Grade A
 
   Else, proceed to Step 9.  
 ### Step 9:
